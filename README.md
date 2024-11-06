@@ -20,9 +20,9 @@ This project is made up of two main components:
 
 ## 🛠️ Components Used
 
-- **STM32F407 Microcontroller**: Handles the dice roll logic and USB serial communication.
-- **LEDs**: Used to display the animation of the dice roll.
-- **Qt 5**: A cross-platform C++ framework used to build the graphical user interface.
+- **STM32F407 Microcontroller (Discovery)**: Handles the dice roll logic and USB serial communication.
+- **Built-in LEDs**: Used to display the animation of the dice roll.
+- **Qt 6**: A cross-platform C++ framework used to build the graphical user interface.
 - **USB Serial Communication**: Communication between the STM32 board and the GUI.
 
 ## 🔧 Getting Started
@@ -34,7 +34,7 @@ To get started with this project, follow these steps:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/DiceRollProject.git
+git clone https://github.com/yassinomri/Dice-Roll.git
 ```
 
 ## 🖥️ Set Up the STM32 Microcontroller
